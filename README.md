@@ -10,3 +10,4 @@ The production of coffee plants can be affected by different factors such as pes
 Keywords: Coffee Plant, Nutritional Lacks, Deep Learning, CNN, Transfer Learning Architecture.
 
 
+![image](https://github.com/user-attachments/assets/9e5137c0-d89f-4233-a672-ffeddae5f021)
